@@ -1,0 +1,21 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+:root {
+	--purpleBackground: linear-gradient(90deg, #672280 1.18%, #a626d3 100%);
+	--whiteBackground: #e5e5e5;
+	--whiteFontColor: rgba(255, 255, 255, 1);
+	--darkFontColor: rgba(13, 13, 13, 1);
+	--inputBorderColor: rgba(213, 212, 216, 1);
+}
+html,
+body,
+#root {
+	height: 100%;
+	width: 100%;
+}
+body {
+	font-family: 'Inter', sans-serif;
+}

@@ -1,0 +1,25 @@
+.header {
+	background: var(--purpleBackground);
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 20px 35px;
+}
+.headerLogoContainer {
+	display: flex;
+	align-items: center;
+}
+.headerLogo {
+	height: 25px;
+	margin-right: 15px;
+}
+.heading {
+	color: var(--whiteFontColor);
+	font-size: 20px;
+	font-weight: 700;
+}
+.projectName {
+	color: var(--whiteFontColor);
+	font-size: 12px;
+	font-weight: 500;
+}

@@ -1,0 +1,11 @@
+.appContainer {
+	max-width: 550px;
+    width: 100%;
+}
+.appSection {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100%;
+	width: 100%;
+}
