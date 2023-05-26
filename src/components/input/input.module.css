@@ -1,0 +1,10 @@
+.input {
+	border: 1px solid var(--inputBorderColor);
+	border-radius: 5px;
+	color: var(--darkFontColor);
+	font-size: 12px;
+	font-weight: 400;
+    max-width: 230px;
+    width: 100%;
+	padding: 10px;
+}
