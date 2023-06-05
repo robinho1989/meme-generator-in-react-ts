@@ -7,8 +7,8 @@ export const Form = () => {
 		<section className={styles.formSection}>
 			<form className={styles.form}>
 				<div className={styles.inputContainer}>
-					<Input />
-					<Input />
+					<Input placeholder='Top text' />
+					<Input placeholder='Bottom text' />
 				</div>
 				<SubmitButton />
 			</form>
